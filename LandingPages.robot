@@ -7,6 +7,8 @@ Suite Teardown   Close Browser
 #---------------------------------------------------------------
 #  robot LandingPages.robot
 
+#     pybot -d results tests/LandingPages.robot
+
 *** Test Cases ***
 Testing the pages of All Esc/war, All Actions, All Open risks and All Open Internal Issues
     #[Documentation]  To Check The LOGIN & Landing Pages of CodeX Stage
